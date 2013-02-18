@@ -7,15 +7,13 @@
             "email": "electblake@gmail.com"
         }
     ],
-    {
-        "type": "package",
-        "package": {
-            "name": "electblake/phpthumb-mirror",
-            "version": "1.7.11",
-            "dist": {
-                "url": "http://sourceforge.net/projects/phpthumb/files/latest/download?source=files",
-                "type": "zip"
-            }
+    "type": "package",
+    "package": {
+        "name": "electblake/phpthumb-mirror",
+        "version": "1.7.11",
+        "dist": {
+            "url": "http://sourceforge.net/projects/phpthumb/files/latest/download?source=files",
+            "type": "zip"
         }
     }
 }
